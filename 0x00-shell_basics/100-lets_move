@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/u tr '[:lower:]' '[:upper:]'
+tr '[:lower:]' '[:upper:]'/tmp/u 
