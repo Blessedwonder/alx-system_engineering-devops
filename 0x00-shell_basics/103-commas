@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m 0-current_working_directory, 100-lets_move, 101-clean_emacs, 102-tree, 
+ls -m ./103-commas 
